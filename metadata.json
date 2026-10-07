@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Creator Engine",
+  "description": "Elite command-center workflow for digital solopreneurs and content operations with timeline trimmer, audio waveform visualizer, AI hook generation, and growth telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
